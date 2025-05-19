@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  font-family: 'Fredoka One', cursive;
+  background-color: black;
+  color: pink;
+  text-shadow: 2px 2px 4px black;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  position: relative;
+  transition: background-image 1s ease-in-out;
+}
+
+.starfield {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  max-width: 900px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+  border: 3px solid pink;
+  border-radius: 20px;
+  padding: 2rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: pink;
+  text-shadow: 1.5px 1.5px 3px black;
+  animation: flipIn 0.7s ease;
+}
+
+@keyframes flipIn {
+  from {
+    transform: rotateY(90deg);
+    opacity: 0;
+  }
+  to {
+    transform: rotateY(0);
+    opacity: 1;
+  }
+}
+
+.text-content {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  user-select: none;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.next-btn {
+  align-self: center;
+  background-color: pink;
+  border: 3px solid pink;
+  border-radius: 30px;
+  color: black;
+  cursor: pointer;
+  font-family: 'Fredoka One', cursive;
+  font-size: 1.1rem;
+  padding: 0.7rem 2.2rem;
+  margin-top: 2rem;
+  box-shadow: 0 0 7px pink;
+  transition: all 0.3s ease;
+  user-select: none;
+  min-width: 280px;
+  text-align: center;
+  text-shadow: none;
+  flex-shrink: 0;
+}
+
+.next-btn:hover {
+  background-color: black;
+  color: pink;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px pink;
+}
+
+.decor {
+  position: absolute;
+  width: 80px;
+  z-index: 0;
+  opacity: 0.6;
+}
+
+.decor1 { top: 5%; left: 5%; }
+.decor2 { bottom: 10%; right: 10%; }
+.decor3 { top: 15%; right: 5%; }
+.decor4 { bottom: 15%; left: 10%; }
+.decor5 { top: 50%; left: 80%; }
+.decor6 { bottom: 5%; right: 30%; }
+
+@media (max-width: 600px) {
+  .container {
+    padding: 1.4rem 1.6rem;
+  }
+  .text-content {
+    font-size: 1rem;
+  }
+  .next-btn {
+    min-width: 200px;
+    font-size: 1rem;
+    padding: 0.6rem 1.8rem;
+  }
+  .decor {
+    width: 50px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    margin: 1.5vh 5vw;
+    max-width: 90vw;
+    height: 88vh;
+    padding: 2rem;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+  .text-content {
+    font-size: 1.15rem;
+  }
+  .next-btn {
+    min-width: 280px;
+    font-size: 1.2rem;
+    padding: 0.8rem 2.5rem;
+  }
+}
