@@ -15,7 +15,7 @@ const pages = [
     button: 'Next Page'
   },
   {
-    text: `This journey we've shared means everything to me. Thank you for being you.`,
+    text: `sssss`,
     background: 'prompt-three.webp',
     button: 'Next Page'
   },
