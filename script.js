@@ -6,17 +6,17 @@ const pages = [
   },
   {
     text: `I AM SO PROUD OF YOU. What you have done with school is not possible for anyone other than you, It blows me mind to see how much you have achieved you worked so hard for this mika this wasn't a " academic comeback" what you did is so much more you came back to school after not going much and you did all the work you had to do you caught up and you thrived no matter your physical health your mental health you went back and you did it all it would be been so hard but you did it and i always knew ...`,
-    background: "page-one.webp",
+    background: "prompt-one.webp",
     button: "Graduating highschool and going to university"
   },
   {
     text: `You have had no parental help your entire life you've always had to be independant and yet here you are, A highschool graduate who got accepted into university and is moving in with there best friend and is in a commited relationship with someone they love dearly, Im so happy to see everything going well for you you deserve everything in my eyes and Im happy to be here to witness you blossom like the flower you are you mean the world to me, You mean fourth dimensional space time to me and i lo...`,
-    background: "page-two.webp",
+    background: "prompt-two.webp",
     button: "I have and always will believe in you"
   },
   {
     text: `Ever since we became friends and i got to know you I knew straight away how much of a smarter and kind hearted person you are, With any problems you always faced I knew you could always get through them I knew that you could do it because your mika and mika is quite poggers You are the smartest and strongest person I have ever met and With anything that is to come I know everything will be okay no matter what happens you can get through it and i will always be here for as shoulder to cry on, s...`,
-    background: "page-three.webp",
+    background: "prompt-three.webp",
     button: "You mean sm to me"
   },
   {
