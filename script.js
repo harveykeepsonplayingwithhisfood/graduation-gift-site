@@ -6,17 +6,17 @@ const pages = [
   },
   {
     text: `You're so amazing because you always find light even in the darkest times. Keep shining!`,
-    background: 'page-one.webp',
+    background: 'prompt-one.webp',
     button: 'Next Page'
   },
   {
     text: `Your kindness touches everyone around you. Never forget how special you truly are.`,
-    background: 'page-two.webp',
+    background: 'prompt-two.webp',
     button: 'Next Page'
   },
   {
     text: `This journey we've shared means everything to me. Thank you for being you.`,
-    background: 'page-three.webp',
+    background: 'prompt-three.webp',
     button: 'Next Page'
   },
   {
