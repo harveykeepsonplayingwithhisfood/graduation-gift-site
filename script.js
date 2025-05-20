@@ -15,7 +15,7 @@ const pages = [
     button: 'I have always believed in you'
   },
   {
-    text: `Ever since we became friends and i got to know you I knew straight away how much of a smarter and kind hearted person you are, With any problems you always faced I knew you could always get through them I knew that you could do it because your mika and mika is quite poggers You are the smartest and strongest person I have ever met and With anything that is to come I know everything will be okay no matter what happens you can get through it and i will always be here for as shoulder to cry on, someone to talk to, Someone to fall back on when you need help`,
+    text: `Ever since we became friends and i got to know you I knew straight away how much of a smart and kind hearted person you are, With any problems you always faced I knew you could always get through them I knew that you could do it because your mika and mika is quite poggers You are the smartest and strongest person I have ever met and With anything that is to come I know everything will be okay no matter what happens you can get through it and i will always be here for as shoulder to cry on, someone to talk to, Someone to fall back on when you need help`,
     background: 'prompt-three.webp',
     button: 'Corny poem dont judge'
   },
