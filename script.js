@@ -1,39 +1,34 @@
 const pages = [
   {
-    text: `Hey love, I'm so proud of you for all you've done this year. Your courage and strength amaze me.`,
+    text: `CONGRATSULATION ON GRADUATING MIKAAA, I made this as a little celebrative present :p`,
     background: 'background.webp',
-    button: 'Next Page'
+    button: 'Click this dum dum'
   },
   {
-    text: `You're so amazing because you always find light even in the darkest times. Keep shining!`,
+    text: `I AM SO PROUD OF YOU. What you have done with school is not possible for anyone other than you, It blows me mind to see how much you have achieved you worked so hard for this mika this wasn't a "academic comeback" what you did is so much more you came back to school after not going much and you did all the work you had to do you caught up and you thrived no matter your physical health your mental health you went back and you did it all it would be been so hard but you did it and i always knew you could ever since i met you i believed in you because you are the most amazing and smart person i have ever met in my life you've done so well my dear mika and you deserve everything good that has come of this im so proud of you it makes me want to cry(i did cry) #crybabysam you didn't even just graduate you graduated WITH GOOD GRADES??? and i cant even bring words to how amazing that is`,
     background: 'prompt-one.webp',
-    button: 'Next Page'
+    button: 'Im so proud of you'
   },
   {
-    text: `Your kindness touches everyone around you. Never forget how special you truly are.`,
+    text: `You have had no parental help your entire life you've always had to be independant and yet here you are, A highschool graduate who got accepted into university and is moving in with there best friend and is in a commited relationship with someone they love dearly, Im so happy to see everything going well for you you deserve everything in my eyes and Im happy to be here to witness you blossom like the flower you are you mean the world to me, You mean fourth dimensional space time to me and i love you mika`,
     background: 'prompt-two.webp',
-    button: 'Next Page'
+    button: 'I have always believed in you'
   },
   {
-    text: `sssss`,
+    text: `Ever since we became friends and i got to know you I knew straight away how much of a smarter and kind hearted person you are, With any problems you always faced I knew you could always get through them I knew that you could do it because your mika and mika is quite poggers You are the smartest and strongest person I have ever met and With anything that is to come I know everything will be okay no matter what happens you can get through it and i will always be here for as shoulder to cry on, someone to talk to, Someone to fall back on when you need help`,
     background: 'prompt-three.webp',
-    button: 'Next Page'
+    button: 'Corny poem dont judge'
   },
   {
-    text: `Here is my love poem for you:
-
-Every moment with you is a dream come true...
-
-(Your poem continues here)`,
+    text: `In a isolated and cold universe you are the stars in the sky giving light and warmth to each planet orbiting near you
+though darkness surrounds this universe you are the stars thats shine brighter then anything else`,
     background: 'prompt-four.webp',
-    button: 'Next Page'
+    button: 'Final page heh'
   },
   {
-    text: `Forever and always, I will cherish you.
-
-Love, Me.`,
+    text: `congratsulations mika im so proud of you`,
     background: 'page-5-background.jpg',
-    button: 'Restart'
+    button: 'Restart>_<'
   }
 ];
 
