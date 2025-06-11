@@ -1,6 +1,37 @@
 const pages = [
   {
-    text: `CONGRATSULATION ON GRADUATING MIKAAA, I made this as a little celebrative present :p`,
+    text: `Please tell me not to go
+We've been here long before
+I live under your eyelids
+I'll always be yours
+I'll lay on your rooftop in the freezing cold
+And I'll watch the sunset wearing all your clothes
+I can feel you with me like I did before
+Like when I sang you a love song by Norah Jones
+Ooh, Sienna
+Would've been cute
+Ooh, Sienna
+Would look just like you
+I came clean
+And it feels so good
+If I feel seen, mm
+Only through you
+I'll wait here tomorrow, outside your door
+Like I did in December, when you held me close
+Coming up on your corner, pulling out my hair
+Hear the creak in the floorboards going up the stairs
+Ooh, Sienna
+Would've been cute
+Ooh, Sienna
+Would look just like you
+With a temper like you, run around like you
+Jumping in the pool, like you
+Sing to all her pets in the way I did
+Be sensitive like you
+And I smile when I think of all the times we had
+On the beach in the winter when the waves were mad
+Down by the water, crystal clear
+See her face in the forest then it disappears`,
     background: 'background.webp',
     button: 'Click this dum dum'
   },
